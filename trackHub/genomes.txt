@@ -1,2 +1,2 @@
 genome sacCer3
-trackDb sacCer3/trackDB.txt
+trackDb sacCer3/trackDb.txt
