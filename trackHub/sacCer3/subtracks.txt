@@ -89,32 +89,32 @@
     priority 9
 
     track yep3f8600
-    shortLabel SPT15 YPD
+    shortLabel SPT15 Heat-Shock
     longLabel 8600 SPT15 forward strand
     parent yep3f off
     color 0,0,255
     bigDataUrl http://128.84.9.188/YEP_DATA/sampleBigWig/8600_SPT15_forwardStrand.bw
-    subGroups view=f fact=spt15 treat=YPD
+    subGroups view=f fact=spt15 treat=Heat-Shock
     type bigWig
     priority 10
 
     track yep3p8600
-    shortLabel SPT15 YPD
+    shortLabel SPT15 Heat-Shock
     longLabel 8600 SPT15 peaks
     parent yep3p off
     color 0,0,0
     bigDataUrl http://128.84.9.188/YEP_DATA/sampleBigBed/8600_SPT15_chexmix_filtered.bb
-    subGroups view=p fact=spt15 treat=YPD
+    subGroups view=p fact=spt15 treat=Heat-Shock
     type bigBed
     priority 11
 
     track yep3r8600
-    shortLabel SPT15 YPD
+    shortLabel SPT15 Heat-Shock
     longLabel 8600 SPT15 reverse strand
     parent yep3r off
     color 255,0,0
     bigDataUrl http://128.84.9.188/YEP_DATA/sampleBigWig/8600_SPT15_reverseStrand.bw
-    subGroups view=r fact=spt15 treat=YPD
+    subGroups view=r fact=spt15 treat=Heat-Shock
     type bigWig
     priority 12
 
@@ -149,62 +149,62 @@
     priority 15
 
     track yep3f8633
-    shortLabel SPT16 YPD
+    shortLabel SPT16 Heat-Shock
     longLabel 8633 SPT16 forward strand
     parent yep3f off
     color 0,0,255
     bigDataUrl http://128.84.9.188/YEP_DATA/sampleBigWig/8633_SPT16_forwardStrand.bw
-    subGroups view=f fact=spt16 treat=YPD
+    subGroups view=f fact=spt16 treat=Heat-Shock
     type bigWig
     priority 16
 
     track yep3p8633
-    shortLabel SPT16 YPD
+    shortLabel SPT16 Heat-Shock
     longLabel 8633 SPT16 peaks
     parent yep3p off
     color 0,0,0
     bigDataUrl http://128.84.9.188/YEP_DATA/sampleBigBed/8633_SPT16_chexmix_filtered.bb
-    subGroups view=p fact=spt16 treat=YPD
+    subGroups view=p fact=spt16 treat=Heat-Shock
     type bigBed
     priority 17
 
     track yep3r8633
-    shortLabel SPT16 YPD
+    shortLabel SPT16 Heat-Shock
     longLabel 8633 SPT16 reverse strand
     parent yep3r off
     color 255,0,0
     bigDataUrl http://128.84.9.188/YEP_DATA/sampleBigWig/8633_SPT16_reverseStrand.bw
-    subGroups view=r fact=spt16 treat=YPD
+    subGroups view=r fact=spt16 treat=Heat-Shock
     type bigWig
     priority 18
 
     track yep3f8929
-    shortLabel RPB3 YPD
+    shortLabel RPB3 Heat-Shock
     longLabel 8929 RPB3 forward strand
     parent yep3f off
     color 0,0,255
     bigDataUrl http://128.84.9.188/YEP_DATA/sampleBigWig/8929_RPB3_forwardStrand.bw
-    subGroups view=f fact=rpb3 treat=YPD
+    subGroups view=f fact=rpb3 treat=Heat-Shock
     type bigWig
     priority 19
 
     track yep3p8929
-    shortLabel RPB3 YPD
+    shortLabel RPB3 Heat-Shock
     longLabel 8929 RPB3 peaks
     parent yep3p off
     color 0,0,0
     bigDataUrl http://128.84.9.188/YEP_DATA/sampleBigBed/8929_RPB3_chexmix_filtered.bb
-    subGroups view=p fact=rpb3 treat=YPD
+    subGroups view=p fact=rpb3 treat=Heat-Shock
     type bigBed
     priority 20
 
     track yep3r8929
-    shortLabel RPB3 YPD
+    shortLabel RPB3 Heat-Shock
     longLabel 8929 RPB3 reverse strand
     parent yep3r off
     color 255,0,0
     bigDataUrl http://128.84.9.188/YEP_DATA/sampleBigWig/8929_RPB3_reverseStrand.bw
-    subGroups view=r fact=rpb3 treat=YPD
+    subGroups view=r fact=rpb3 treat=Heat-Shock
     type bigWig
     priority 21
 
@@ -389,32 +389,32 @@
     priority 39
 
     track yep1f10406
-    shortLabel HSF1 YPD
+    shortLabel HSF1 Heat-Shock
     longLabel 10406 HSF1 forward strand
     parent yep1f off
     color 0,0,255
     bigDataUrl http://128.84.9.188/YEP_DATA/sampleBigWig/10406_HSF1_forwardStrand.bw
-    subGroups view=f fact=hsf1 treat=YPD
+    subGroups view=f fact=hsf1 treat=Heat-Shock
     type bigWig
     priority 40
 
     track yep1p10406
-    shortLabel HSF1 YPD
+    shortLabel HSF1 Heat-Shock
     longLabel 10406 HSF1 peaks
     parent yep1p off
     color 0,0,0
     bigDataUrl http://128.84.9.188/YEP_DATA/sampleBigBed/10406_HSF1_chexmix_filtered.bb
-    subGroups view=p fact=hsf1 treat=YPD
+    subGroups view=p fact=hsf1 treat=Heat-Shock
     type bigBed
     priority 41
 
     track yep1r10406
-    shortLabel HSF1 YPD
+    shortLabel HSF1 Heat-Shock
     longLabel 10406 HSF1 reverse strand
     parent yep1r off
     color 255,0,0
     bigDataUrl http://128.84.9.188/YEP_DATA/sampleBigWig/10406_HSF1_reverseStrand.bw
-    subGroups view=r fact=hsf1 treat=YPD
+    subGroups view=r fact=hsf1 treat=Heat-Shock
     type bigWig
     priority 42
 
@@ -4129,32 +4129,32 @@
     priority 413
 
     track yep3f11961
-    shortLabel SPT7 YPD
+    shortLabel SPT7 Heat-Shock
     longLabel 11961 SPT7 forward strand
     parent yep3f off
     color 0,0,255
     bigDataUrl http://128.84.9.188/YEP_DATA/sampleBigWig/11961_SPT7_forwardStrand.bw
-    subGroups view=f fact=spt7 treat=YPD
+    subGroups view=f fact=spt7 treat=Heat-Shock
     type bigWig
     priority 414
 
     track yep3p11961
-    shortLabel SPT7 YPD
+    shortLabel SPT7 Heat-Shock
     longLabel 11961 SPT7 peaks
     parent yep3p off
     color 0,0,0
     bigDataUrl http://128.84.9.188/YEP_DATA/sampleBigBed/11961_SPT7_chexmix_filtered.bb
-    subGroups view=p fact=spt7 treat=YPD
+    subGroups view=p fact=spt7 treat=Heat-Shock
     type bigBed
     priority 415
 
     track yep3r11961
-    shortLabel SPT7 YPD
+    shortLabel SPT7 Heat-Shock
     longLabel 11961 SPT7 reverse strand
     parent yep3r off
     color 255,0,0
     bigDataUrl http://128.84.9.188/YEP_DATA/sampleBigWig/11961_SPT7_reverseStrand.bw
-    subGroups view=r fact=spt7 treat=YPD
+    subGroups view=r fact=spt7 treat=Heat-Shock
     type bigWig
     priority 416
 
@@ -4189,32 +4189,32 @@
     priority 419
 
     track yep4f11963
-    shortLabel UBP8 YPD
+    shortLabel UBP8 Heat-Shock
     longLabel 11963 UBP8 forward strand
     parent yep4f off
     color 0,0,255
     bigDataUrl http://128.84.9.188/YEP_DATA/sampleBigWig/11963_UBP8_forwardStrand.bw
-    subGroups view=f fact=ubp8 treat=YPD
+    subGroups view=f fact=ubp8 treat=Heat-Shock
     type bigWig
     priority 420
 
     track yep4p11963
-    shortLabel UBP8 YPD
+    shortLabel UBP8 Heat-Shock
     longLabel 11963 UBP8 peaks
     parent yep4p off
     color 0,0,0
     bigDataUrl http://128.84.9.188/YEP_DATA/sampleBigBed/11963_UBP8_chexmix_filtered.bb
-    subGroups view=p fact=ubp8 treat=YPD
+    subGroups view=p fact=ubp8 treat=Heat-Shock
     type bigBed
     priority 421
 
     track yep4r11963
-    shortLabel UBP8 YPD
+    shortLabel UBP8 Heat-Shock
     longLabel 11963 UBP8 reverse strand
     parent yep4r off
     color 255,0,0
     bigDataUrl http://128.84.9.188/YEP_DATA/sampleBigWig/11963_UBP8_reverseStrand.bw
-    subGroups view=r fact=ubp8 treat=YPD
+    subGroups view=r fact=ubp8 treat=Heat-Shock
     type bigWig
     priority 422
 
@@ -9989,32 +9989,32 @@
     priority 999
 
     track yep3f13366
-    shortLabel SGF11 YPD
+    shortLabel SGF11 Heat-Shock
     longLabel 13366 SGF11 forward strand
     parent yep3f off
     color 0,0,255
     bigDataUrl http://128.84.9.188/YEP_DATA/sampleBigWig/13366_SGF11_forwardStrand.bw
-    subGroups view=f fact=sgf11 treat=YPD
+    subGroups view=f fact=sgf11 treat=Heat-Shock
     type bigWig
     priority 1000
 
     track yep3p13366
-    shortLabel SGF11 YPD
+    shortLabel SGF11 Heat-Shock
     longLabel 13366 SGF11 peaks
     parent yep3p off
     color 0,0,0
     bigDataUrl http://128.84.9.188/YEP_DATA/sampleBigBed/13366_SGF11_chexmix_filtered.bb
-    subGroups view=p fact=sgf11 treat=YPD
+    subGroups view=p fact=sgf11 treat=Heat-Shock
     type bigBed
     priority 1001
 
     track yep3r13366
-    shortLabel SGF11 YPD
+    shortLabel SGF11 Heat-Shock
     longLabel 13366 SGF11 reverse strand
     parent yep3r off
     color 255,0,0
     bigDataUrl http://128.84.9.188/YEP_DATA/sampleBigWig/13366_SGF11_reverseStrand.bw
-    subGroups view=r fact=sgf11 treat=YPD
+    subGroups view=r fact=sgf11 treat=Heat-Shock
     type bigWig
     priority 1002
 
@@ -19959,32 +19959,32 @@
     priority 1996
 
     track yep3f15165
-    shortLabel RSC1 YPD
+    shortLabel RSC1 Heat-Shock
     longLabel 15165 RSC1 forward strand
     parent yep3f off
     color 0,0,255
     bigDataUrl http://128.84.9.188/YEP_DATA/sampleBigWig/15165_RSC1_forwardStrand.bw
-    subGroups view=f fact=rsc1 treat=YPD
+    subGroups view=f fact=rsc1 treat=Heat-Shock
     type bigWig
     priority 1997
 
     track yep3p15165
-    shortLabel RSC1 YPD
+    shortLabel RSC1 Heat-Shock
     longLabel 15165 RSC1 peaks
     parent yep3p off
     color 0,0,0
     bigDataUrl http://128.84.9.188/YEP_DATA/sampleBigBed/15165_RSC1_chexmix_filtered.bb
-    subGroups view=p fact=rsc1 treat=YPD
+    subGroups view=p fact=rsc1 treat=Heat-Shock
     type bigBed
     priority 1998
 
     track yep3r15165
-    shortLabel RSC1 YPD
+    shortLabel RSC1 Heat-Shock
     longLabel 15165 RSC1 reverse strand
     parent yep3r off
     color 255,0,0
     bigDataUrl http://128.84.9.188/YEP_DATA/sampleBigWig/15165_RSC1_reverseStrand.bw
-    subGroups view=r fact=rsc1 treat=YPD
+    subGroups view=r fact=rsc1 treat=Heat-Shock
     type bigWig
     priority 1999
 
@@ -20649,32 +20649,32 @@
     priority 2065
 
     track yep4f15245
-    shortLabel TPK2 YPD
+    shortLabel TPK2 Heat-Shock
     longLabel 15245 TPK2 forward strand
     parent yep4f off
     color 0,0,255
     bigDataUrl http://128.84.9.188/YEP_DATA/sampleBigWig/15245_TPK2_forwardStrand.bw
-    subGroups view=f fact=tpk2 treat=YPD
+    subGroups view=f fact=tpk2 treat=Heat-Shock
     type bigWig
     priority 2066
 
     track yep4p15245
-    shortLabel TPK2 YPD
+    shortLabel TPK2 Heat-Shock
     longLabel 15245 TPK2 peaks
     parent yep4p off
     color 0,0,0
     bigDataUrl http://128.84.9.188/YEP_DATA/sampleBigBed/15245_TPK2_chexmix_filtered.bb
-    subGroups view=p fact=tpk2 treat=YPD
+    subGroups view=p fact=tpk2 treat=Heat-Shock
     type bigBed
     priority 2067
 
     track yep4r15245
-    shortLabel TPK2 YPD
+    shortLabel TPK2 Heat-Shock
     longLabel 15245 TPK2 reverse strand
     parent yep4r off
     color 255,0,0
     bigDataUrl http://128.84.9.188/YEP_DATA/sampleBigWig/15245_TPK2_reverseStrand.bw
-    subGroups view=r fact=tpk2 treat=YPD
+    subGroups view=r fact=tpk2 treat=Heat-Shock
     type bigWig
     priority 2068
 
@@ -22329,152 +22329,152 @@
     priority 2233
 
     track yep3f15810
-    shortLabel RSC58 YPD
+    shortLabel RSC58 Heat-Shock
     longLabel 15810 RSC58 forward strand
     parent yep3f off
     color 0,0,255
     bigDataUrl http://128.84.9.188/YEP_DATA/sampleBigWig/15810_RSC58_forwardStrand.bw
-    subGroups view=f fact=rsc58 treat=YPD
+    subGroups view=f fact=rsc58 treat=Heat-Shock
     type bigWig
     priority 2234
 
     track yep3p15810
-    shortLabel RSC58 YPD
+    shortLabel RSC58 Heat-Shock
     longLabel 15810 RSC58 peaks
     parent yep3p off
     color 0,0,0
     bigDataUrl http://128.84.9.188/YEP_DATA/sampleBigBed/15810_RSC58_chexmix_filtered.bb
-    subGroups view=p fact=rsc58 treat=YPD
+    subGroups view=p fact=rsc58 treat=Heat-Shock
     type bigBed
     priority 2235
 
     track yep3r15810
-    shortLabel RSC58 YPD
+    shortLabel RSC58 Heat-Shock
     longLabel 15810 RSC58 reverse strand
     parent yep3r off
     color 255,0,0
     bigDataUrl http://128.84.9.188/YEP_DATA/sampleBigWig/15810_RSC58_reverseStrand.bw
-    subGroups view=r fact=rsc58 treat=YPD
+    subGroups view=r fact=rsc58 treat=Heat-Shock
     type bigWig
     priority 2236
 
     track yep3f15812
-    shortLabel STH1 YPD
+    shortLabel STH1 Heat-Shock
     longLabel 15812 STH1 forward strand
     parent yep3f off
     color 0,0,255
     bigDataUrl http://128.84.9.188/YEP_DATA/sampleBigWig/15812_STH1_forwardStrand.bw
-    subGroups view=f fact=sth1 treat=YPD
+    subGroups view=f fact=sth1 treat=Heat-Shock
     type bigWig
     priority 2237
 
     track yep3p15812
-    shortLabel STH1 YPD
+    shortLabel STH1 Heat-Shock
     longLabel 15812 STH1 peaks
     parent yep3p off
     color 0,0,0
     bigDataUrl http://128.84.9.188/YEP_DATA/sampleBigBed/15812_STH1_chexmix_filtered.bb
-    subGroups view=p fact=sth1 treat=YPD
+    subGroups view=p fact=sth1 treat=Heat-Shock
     type bigBed
     priority 2238
 
     track yep3r15812
-    shortLabel STH1 YPD
+    shortLabel STH1 Heat-Shock
     longLabel 15812 STH1 reverse strand
     parent yep3r off
     color 255,0,0
     bigDataUrl http://128.84.9.188/YEP_DATA/sampleBigWig/15812_STH1_reverseStrand.bw
-    subGroups view=r fact=sth1 treat=YPD
+    subGroups view=r fact=sth1 treat=Heat-Shock
     type bigWig
     priority 2239
 
     track yep3f15814
-    shortLabel RSC6 YPD
+    shortLabel RSC6 Heat-Shock
     longLabel 15814 RSC6 forward strand
     parent yep3f off
     color 0,0,255
     bigDataUrl http://128.84.9.188/YEP_DATA/sampleBigWig/15814_RSC6_forwardStrand.bw
-    subGroups view=f fact=rsc6 treat=YPD
+    subGroups view=f fact=rsc6 treat=Heat-Shock
     type bigWig
     priority 2240
 
     track yep3p15814
-    shortLabel RSC6 YPD
+    shortLabel RSC6 Heat-Shock
     longLabel 15814 RSC6 peaks
     parent yep3p off
     color 0,0,0
     bigDataUrl http://128.84.9.188/YEP_DATA/sampleBigBed/15814_RSC6_chexmix_filtered.bb
-    subGroups view=p fact=rsc6 treat=YPD
+    subGroups view=p fact=rsc6 treat=Heat-Shock
     type bigBed
     priority 2241
 
     track yep3r15814
-    shortLabel RSC6 YPD
+    shortLabel RSC6 Heat-Shock
     longLabel 15814 RSC6 reverse strand
     parent yep3r off
     color 255,0,0
     bigDataUrl http://128.84.9.188/YEP_DATA/sampleBigWig/15814_RSC6_reverseStrand.bw
-    subGroups view=r fact=rsc6 treat=YPD
+    subGroups view=r fact=rsc6 treat=Heat-Shock
     type bigWig
     priority 2242
 
     track yep3f15815
-    shortLabel RSC3 YPD
+    shortLabel RSC3 Heat-Shock
     longLabel 15815 RSC3 forward strand
     parent yep3f off
     color 0,0,255
     bigDataUrl http://128.84.9.188/YEP_DATA/sampleBigWig/15815_RSC3_forwardStrand.bw
-    subGroups view=f fact=rsc3 treat=YPD
+    subGroups view=f fact=rsc3 treat=Heat-Shock
     type bigWig
     priority 2243
 
     track yep3p15815
-    shortLabel RSC3 YPD
+    shortLabel RSC3 Heat-Shock
     longLabel 15815 RSC3 peaks
     parent yep3p off
     color 0,0,0
     bigDataUrl http://128.84.9.188/YEP_DATA/sampleBigBed/15815_RSC3_chexmix_filtered.bb
-    subGroups view=p fact=rsc3 treat=YPD
+    subGroups view=p fact=rsc3 treat=Heat-Shock
     type bigBed
     priority 2244
 
     track yep3r15815
-    shortLabel RSC3 YPD
+    shortLabel RSC3 Heat-Shock
     longLabel 15815 RSC3 reverse strand
     parent yep3r off
     color 255,0,0
     bigDataUrl http://128.84.9.188/YEP_DATA/sampleBigWig/15815_RSC3_reverseStrand.bw
-    subGroups view=r fact=rsc3 treat=YPD
+    subGroups view=r fact=rsc3 treat=Heat-Shock
     type bigWig
     priority 2245
 
     track yep3f15816
-    shortLabel RSC1 YPD
+    shortLabel RSC1 Heat-Shock
     longLabel 15816 RSC1 forward strand
     parent yep3f off
     color 0,0,255
     bigDataUrl http://128.84.9.188/YEP_DATA/sampleBigWig/15816_RSC1_forwardStrand.bw
-    subGroups view=f fact=rsc1 treat=YPD
+    subGroups view=f fact=rsc1 treat=Heat-Shock
     type bigWig
     priority 2246
 
     track yep3p15816
-    shortLabel RSC1 YPD
+    shortLabel RSC1 Heat-Shock
     longLabel 15816 RSC1 peaks
     parent yep3p off
     color 0,0,0
     bigDataUrl http://128.84.9.188/YEP_DATA/sampleBigBed/15816_RSC1_chexmix_filtered.bb
-    subGroups view=p fact=rsc1 treat=YPD
+    subGroups view=p fact=rsc1 treat=Heat-Shock
     type bigBed
     priority 2247
 
     track yep3r15816
-    shortLabel RSC1 YPD
+    shortLabel RSC1 Heat-Shock
     longLabel 15816 RSC1 reverse strand
     parent yep3r off
     color 255,0,0
     bigDataUrl http://128.84.9.188/YEP_DATA/sampleBigWig/15816_RSC1_reverseStrand.bw
-    subGroups view=r fact=rsc1 treat=YPD
+    subGroups view=r fact=rsc1 treat=Heat-Shock
     type bigWig
     priority 2248
 
@@ -32549,122 +32549,122 @@
     priority 3255
 
     track yep2f19657
-    shortLabel MET28 YPD
+    shortLabel MET28 Heat-Shock
     longLabel 19657 MET28 forward strand
     parent yep2f off
     color 0,0,255
     bigDataUrl http://128.84.9.188/YEP_DATA/sampleBigWig/19657_MET28_forwardStrand.bw
-    subGroups view=f fact=met28 treat=YPD
+    subGroups view=f fact=met28 treat=Heat-Shock
     type bigWig
     priority 3256
 
     track yep2p19657
-    shortLabel MET28 YPD
+    shortLabel MET28 Heat-Shock
     longLabel 19657 MET28 peaks
     parent yep2p off
     color 0,0,0
     bigDataUrl http://128.84.9.188/YEP_DATA/sampleBigBed/19657_MET28_chexmix_filtered.bb
-    subGroups view=p fact=met28 treat=YPD
+    subGroups view=p fact=met28 treat=Heat-Shock
     type bigBed
     priority 3257
 
     track yep2r19657
-    shortLabel MET28 YPD
+    shortLabel MET28 Heat-Shock
     longLabel 19657 MET28 reverse strand
     parent yep2r off
     color 255,0,0
     bigDataUrl http://128.84.9.188/YEP_DATA/sampleBigWig/19657_MET28_reverseStrand.bw
-    subGroups view=r fact=met28 treat=YPD
+    subGroups view=r fact=met28 treat=Heat-Shock
     type bigWig
     priority 3258
 
     track yep3f19678
-    shortLabel RSC3 YPD
+    shortLabel RSC3 Heat-Shock
     longLabel 19678 RSC3 forward strand
     parent yep3f off
     color 0,0,255
     bigDataUrl http://128.84.9.188/YEP_DATA/sampleBigWig/19678_RSC3_forwardStrand.bw
-    subGroups view=f fact=rsc3 treat=YPD
+    subGroups view=f fact=rsc3 treat=Heat-Shock
     type bigWig
     priority 3259
 
     track yep3p19678
-    shortLabel RSC3 YPD
+    shortLabel RSC3 Heat-Shock
     longLabel 19678 RSC3 peaks
     parent yep3p off
     color 0,0,0
     bigDataUrl http://128.84.9.188/YEP_DATA/sampleBigBed/19678_RSC3_chexmix_filtered.bb
-    subGroups view=p fact=rsc3 treat=YPD
+    subGroups view=p fact=rsc3 treat=Heat-Shock
     type bigBed
     priority 3260
 
     track yep3r19678
-    shortLabel RSC3 YPD
+    shortLabel RSC3 Heat-Shock
     longLabel 19678 RSC3 reverse strand
     parent yep3r off
     color 255,0,0
     bigDataUrl http://128.84.9.188/YEP_DATA/sampleBigWig/19678_RSC3_reverseStrand.bw
-    subGroups view=r fact=rsc3 treat=YPD
+    subGroups view=r fact=rsc3 treat=Heat-Shock
     type bigWig
     priority 3261
 
     track yep3f19834
-    shortLabel RSC9 YPD
+    shortLabel RSC9 Heat-Shock
     longLabel 19834 RSC9 forward strand
     parent yep3f off
     color 0,0,255
     bigDataUrl http://128.84.9.188/YEP_DATA/sampleBigWig/19834_RSC9_forwardStrand.bw
-    subGroups view=f fact=rsc9 treat=YPD
+    subGroups view=f fact=rsc9 treat=Heat-Shock
     type bigWig
     priority 3262
 
     track yep3p19834
-    shortLabel RSC9 YPD
+    shortLabel RSC9 Heat-Shock
     longLabel 19834 RSC9 peaks
     parent yep3p off
     color 0,0,0
     bigDataUrl http://128.84.9.188/YEP_DATA/sampleBigBed/19834_RSC9_chexmix_filtered.bb
-    subGroups view=p fact=rsc9 treat=YPD
+    subGroups view=p fact=rsc9 treat=Heat-Shock
     type bigBed
     priority 3263
 
     track yep3r19834
-    shortLabel RSC9 YPD
+    shortLabel RSC9 Heat-Shock
     longLabel 19834 RSC9 reverse strand
     parent yep3r off
     color 255,0,0
     bigDataUrl http://128.84.9.188/YEP_DATA/sampleBigWig/19834_RSC9_reverseStrand.bw
-    subGroups view=r fact=rsc9 treat=YPD
+    subGroups view=r fact=rsc9 treat=Heat-Shock
     type bigWig
     priority 3264
 
     track yep3f19898
-    shortLabel RSC9 YPD
+    shortLabel RSC9 Heat-Shock
     longLabel 19898 RSC9 forward strand
     parent yep3f off
     color 0,0,255
     bigDataUrl http://128.84.9.188/YEP_DATA/sampleBigWig/19898_RSC9_forwardStrand.bw
-    subGroups view=f fact=rsc9 treat=YPD
+    subGroups view=f fact=rsc9 treat=Heat-Shock
     type bigWig
     priority 3265
 
     track yep3p19898
-    shortLabel RSC9 YPD
+    shortLabel RSC9 Heat-Shock
     longLabel 19898 RSC9 peaks
     parent yep3p off
     color 0,0,0
     bigDataUrl http://128.84.9.188/YEP_DATA/sampleBigBed/19898_RSC9_chexmix_filtered.bb
-    subGroups view=p fact=rsc9 treat=YPD
+    subGroups view=p fact=rsc9 treat=Heat-Shock
     type bigBed
     priority 3266
 
     track yep3r19898
-    shortLabel RSC9 YPD
+    shortLabel RSC9 Heat-Shock
     longLabel 19898 RSC9 reverse strand
     parent yep3r off
     color 255,0,0
     bigDataUrl http://128.84.9.188/YEP_DATA/sampleBigWig/19898_RSC9_reverseStrand.bw
-    subGroups view=r fact=rsc9 treat=YPD
+    subGroups view=r fact=rsc9 treat=Heat-Shock
     type bigWig
     priority 3267
 
@@ -33569,62 +33569,62 @@
     priority 3357
 
     track yep3f20115
-    shortLabel SPT7 YPD
+    shortLabel SPT7 Heat-Shock
     longLabel 20115 SPT7 forward strand
     parent yep3f off
     color 0,0,255
     bigDataUrl http://128.84.9.188/YEP_DATA/sampleBigWig/20115_SPT7_forwardStrand.bw
-    subGroups view=f fact=spt7 treat=YPD
+    subGroups view=f fact=spt7 treat=Heat-Shock
     type bigWig
     priority 3358
 
     track yep3p20115
-    shortLabel SPT7 YPD
+    shortLabel SPT7 Heat-Shock
     longLabel 20115 SPT7 peaks
     parent yep3p off
     color 0,0,0
     bigDataUrl http://128.84.9.188/YEP_DATA/sampleBigBed/20115_SPT7_chexmix_filtered.bb
-    subGroups view=p fact=spt7 treat=YPD
+    subGroups view=p fact=spt7 treat=Heat-Shock
     type bigBed
     priority 3359
 
     track yep3r20115
-    shortLabel SPT7 YPD
+    shortLabel SPT7 Heat-Shock
     longLabel 20115 SPT7 reverse strand
     parent yep3r off
     color 255,0,0
     bigDataUrl http://128.84.9.188/YEP_DATA/sampleBigWig/20115_SPT7_reverseStrand.bw
-    subGroups view=r fact=spt7 treat=YPD
+    subGroups view=r fact=spt7 treat=Heat-Shock
     type bigWig
     priority 3360
 
     track yep4f20128
-    shortLabel UBP8 YPD
+    shortLabel UBP8 Heat-Shock
     longLabel 20128 UBP8 forward strand
     parent yep4f off
     color 0,0,255
     bigDataUrl http://128.84.9.188/YEP_DATA/sampleBigWig/20128_UBP8_forwardStrand.bw
-    subGroups view=f fact=ubp8 treat=YPD
+    subGroups view=f fact=ubp8 treat=Heat-Shock
     type bigWig
     priority 3361
 
     track yep4p20128
-    shortLabel UBP8 YPD
+    shortLabel UBP8 Heat-Shock
     longLabel 20128 UBP8 peaks
     parent yep4p off
     color 0,0,0
     bigDataUrl http://128.84.9.188/YEP_DATA/sampleBigBed/20128_UBP8_chexmix_filtered.bb
-    subGroups view=p fact=ubp8 treat=YPD
+    subGroups view=p fact=ubp8 treat=Heat-Shock
     type bigBed
     priority 3362
 
     track yep4r20128
-    shortLabel UBP8 YPD
+    shortLabel UBP8 Heat-Shock
     longLabel 20128 UBP8 reverse strand
     parent yep4r off
     color 255,0,0
     bigDataUrl http://128.84.9.188/YEP_DATA/sampleBigWig/20128_UBP8_reverseStrand.bw
-    subGroups view=r fact=ubp8 treat=YPD
+    subGroups view=r fact=ubp8 treat=Heat-Shock
     type bigWig
     priority 3363
 
@@ -34589,32 +34589,32 @@
     priority 3459
 
     track yep3f20607
-    shortLabel SGF11 YPD
+    shortLabel SGF11 Heat-Shock
     longLabel 20607 SGF11 forward strand
     parent yep3f off
     color 0,0,255
     bigDataUrl http://128.84.9.188/YEP_DATA/sampleBigWig/20607_SGF11_forwardStrand.bw
-    subGroups view=f fact=sgf11 treat=YPD
+    subGroups view=f fact=sgf11 treat=Heat-Shock
     type bigWig
     priority 3460
 
     track yep3p20607
-    shortLabel SGF11 YPD
+    shortLabel SGF11 Heat-Shock
     longLabel 20607 SGF11 peaks
     parent yep3p off
     color 0,0,0
     bigDataUrl http://128.84.9.188/YEP_DATA/sampleBigBed/20607_SGF11_chexmix_filtered.bb
-    subGroups view=p fact=sgf11 treat=YPD
+    subGroups view=p fact=sgf11 treat=Heat-Shock
     type bigBed
     priority 3461
 
     track yep3r20607
-    shortLabel SGF11 YPD
+    shortLabel SGF11 Heat-Shock
     longLabel 20607 SGF11 reverse strand
     parent yep3r off
     color 255,0,0
     bigDataUrl http://128.84.9.188/YEP_DATA/sampleBigWig/20607_SGF11_reverseStrand.bw
-    subGroups view=r fact=sgf11 treat=YPD
+    subGroups view=r fact=sgf11 treat=Heat-Shock
     type bigWig
     priority 3462
 
@@ -34859,32 +34859,32 @@
     priority 3486
 
     track yep1f23755
-    shortLabel HSF1 YPD
+    shortLabel HSF1 Heat-Shock
     longLabel 23755 HSF1 forward strand
     parent yep1f off
     color 0,0,255
     bigDataUrl http://128.84.9.188/YEP_DATA/sampleBigWig/23755_HSF1_forwardStrand.bw
-    subGroups view=f fact=hsf1 treat=YPD
+    subGroups view=f fact=hsf1 treat=Heat-Shock
     type bigWig
     priority 3487
 
     track yep1p23755
-    shortLabel HSF1 YPD
+    shortLabel HSF1 Heat-Shock
     longLabel 23755 HSF1 peaks
     parent yep1p off
     color 0,0,0
     bigDataUrl http://128.84.9.188/YEP_DATA/sampleBigBed/23755_HSF1_chexmix_filtered.bb
-    subGroups view=p fact=hsf1 treat=YPD
+    subGroups view=p fact=hsf1 treat=Heat-Shock
     type bigBed
     priority 3488
 
     track yep1r23755
-    shortLabel HSF1 YPD
+    shortLabel HSF1 Heat-Shock
     longLabel 23755 HSF1 reverse strand
     parent yep1r off
     color 255,0,0
     bigDataUrl http://128.84.9.188/YEP_DATA/sampleBigWig/23755_HSF1_reverseStrand.bw
-    subGroups view=r fact=hsf1 treat=YPD
+    subGroups view=r fact=hsf1 treat=Heat-Shock
     type bigWig
     priority 3489
 
